@@ -6,7 +6,7 @@ This is an experimental VRChat SDK compatible package for [`Alexejhero/Menu-Item
 
 ### Via Repository (Recommended)
 1. [Add my repo](https://misutaaasriel.github.io/Dreemurrs-Repository/) to the VCC or your VPM utility of choice.
-2. Install `com.5pdev.menu-item-overrides`, which will include `dev.pardeike.harmony` as a dependency.
+2. Add the `com.5pdev.menu-item-overrides` package to your project, which will include `dev.pardeike.harmony` as a dependency.
 
 ### As a User Package (Advanced)
 1. Install the latest release of [Harmony for the VRChat SDK](../../../VRCHarmony)
