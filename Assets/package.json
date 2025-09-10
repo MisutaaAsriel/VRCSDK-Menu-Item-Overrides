@@ -1,0 +1,32 @@
+{
+  "name": "com.5pdev.menu-item-overrides",
+  "displayName": "Menu Item Overrides - VRC SDK Community Bundle",
+  "version": "0.0.0",
+  "unity": "2022.3",
+  "description": "A VRC SDK Compatible Package of Menu Item Overrides, a tool by Alexejhero to hide or move menu items in Unity, including those added by other packages.",
+  "author": {
+    "name": "Alexejhero",
+    "url": "https://github.com/Alexejhero"
+  },
+  "homepage": "https://github.com/Alexejhero/Menu-Item-Overrides",
+  "contributors": [
+    {
+      "name": "Asriel // Azi (@MisutaaAsriel)",
+      "url": "https://github.com/MisutaaAsriel"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MisutaaAsriel/VRC-Unity-Menu-Overrides"
+  },
+  "bugs": {
+    "url": "https://github.com/Alexejhero/Menu-Item-Overrides/issues"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "com.unity.nuget.mono-cecil": "1.11.4"
+  },
+  "vpmDependencies": {
+    "dev.pardeike.harmony": ">=2.4.1"
+  }
+}
